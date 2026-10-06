@@ -1,1 +1,1 @@
-https://zoe-rottenpotatoes-33ef71c8fa14.herokuapp.com/
+http://zoe-rottenpotatoes-33ef71c8fa14.herokuapp.com
